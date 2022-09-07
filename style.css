@@ -20,5 +20,9 @@
     width: 500px;
 }
 .calculadora{
-padding: 20px;
+    width: 450px;
+    padding: 20px;
+}
+#green{
+    color: rgb(0, 212, 0);
 }
